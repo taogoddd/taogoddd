@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NLP and LLM-related problems at @HKUNLP
-- 🎈 I'm intersted in:
-  - 1
-  - 2
-  - 3
+- 💖 I'm intersted in:
+  - 🐬 Next generation AGI
+  - 🎶 Music composition, arrangement and performance
+  - 📽️ Classic and popular Movies
+  - 📖 Literature and poems
+  - 🎮 MOBA and FPS games
 - 📫 How to reach me: ltao@connect.hku.hk
-- 💬 Ask me about anything u like.
+- 💬 Ask me about anything u like. I will be more than glad to make friends with you!
 <!--
 **taogoddd/taogoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
