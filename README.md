@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NLP and LLM-related problems at @HKUNLP
-- 🎈 I'm intersted in music, literature, movies and many other kinds of arts
+- 🎈 I'm intersted in:
+  - 1
+  - 2
+  - 3
 - 📫 How to reach me: ltao@connect.hku.hk
 - 💬 Ask me about anything u like.
 <!--
