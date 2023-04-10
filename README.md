@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on NLP and LLM-related problems at @HKUNLP
 - 💖 I'm intersted in:
-  - 🐬 Next generation AGI
+  - 🐬 Next generation of AGI
   - 🎶 Music composition, arrangement and performance
   - 📽️ Classic and popular Movies
   - 📖 Literature and poems
