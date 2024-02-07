@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NLP and LLM-related problems at @HKUNLP (Dr. Tao Yu) & @PrincetonNLP (Dr. Narasimhan)
+- 🔭 I’m currently working on NLP and LLM-related problems at [@HKUNLP](https://hkunlp.github.io/) ([Dr. Tao Yu](https://taoyds.github.io/)) & [@PrincetonNLP](https://princeton-nlp.github.io/) ([Dr. Narasimhan](https://www.cs.princeton.edu/~karthikn/))
 - 💖 I'm intersted in:
   - 🐬 Next generation of language agents
   - 📽️ Classic and popular Movies (Interstellar is my favorite)
