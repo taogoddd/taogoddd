@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NLP and LLM-related problems at [PrincetonNLP](https://princeton-nlp.github.io/) with [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [HKUNLP](https://hkunlp.github.io/) with [Tao Yu](https://taoyds.github.io/).
-- 🧑‍💼 I'm fortunately mentored by [Shunyu Yao](https://ysymyth.github.io/).
-- 💖 I'm intersted in:
+- 🔭 I’m currently working on NLP and LLM-related problems, especially language agents, at [PrincetonNLP](https://princeton-nlp.github.io/) with [Shunyu Yao](https://ysymyth.github.io/) and [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/).
+- 🧑‍💼 I previously worked with [Tao Yu](https://taoyds.github.io/) at [HKUNLP](https://hkunlp.github.io/). Thanks for his valuable advice and mentoring.
+- 💖 I'm interested in:
   - 🐬 Next generation of language agents
   - 📽️ Classic and popular Movies (Interstellar is my favorite)
   - 🎶 Music composition, arrangement and performance
