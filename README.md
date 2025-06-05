@@ -5,9 +5,9 @@
 - 💖 I'm interested in:
   - 🐬 Next generation of language agents
   - 📽️ Classic and popular Movies (Interstellar is my favorite)
-  - 🎶 Music composition, arrangement and performance
+  - 🎶 Music composition, arrangement, and performance
   - 📖 Literature and poems
-  - 🎮 Teamfight Tactics player
+  - 🎮 Valorant, Hearthstone, and previously TFT
 - 🦋 MBTI: INFP
 - 📫 How to reach me: lyitao17@gmail.com
 - 💬 Ask me about anything u like. I will be more than glad to make friends with you!
