@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NLP and LLM-related problems, especially language agents, at [PrincetonNLP](https://princeton-nlp.github.io/) with [Shunyu Yao](https://ysymyth.github.io/) and [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/).
-- 🧑‍💼 I previously worked with [Tao Yu](https://taoyds.github.io/) at [HKUNLP](https://hkunlp.github.io/). Thanks for his valuable advice and mentoring.
-- 💖 I'm interested in:
-  - 🐬 Next generation of language agents
+- 🔭 I’m currently working on computer use agents (CUA) and VLA models for general robot control, at [XLang Lab](https://xlang.ai/team) with [Tao Yu](https://taoyds.github.io/). .
+- 🧑‍💼 I previously worked with [Shunyu Yao](https://ysymyth.github.io/) and [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) in [PrincetonNLP](https://princeton-nlp.github.io/). Thanks for their valuable advice and mentoring.
+- 💖 I'm generally interested in:
+  - 🐬 Next generation of language agents in digital and physical worlds
   - 📽️ Classic and popular Movies (Interstellar is my favorite)
   - 🎶 Music composition, arrangement, and performance
   - 📖 Literature and poems
